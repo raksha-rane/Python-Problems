@@ -18,5 +18,6 @@ Source: A
 Helper: B
 Destination: C
 '''
+
 # Actual function call
 hanoi(disks, 'A', 'B', 'C')
